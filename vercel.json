@@ -1,0 +1,6 @@
+{
+  "deploymentProtection": {
+    "preview": "none",
+    "production": "none"
+  }
+}
